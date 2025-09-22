@@ -26,9 +26,9 @@ DroneBuddy – un drone assistant intelligent conçu pour accompagner l’utilis
 
 Alkemia Messenger – une messagerie innovante avec système de tokens gratuits et commerce sécurisé de services, pour freelances et particuliers.
 
-- [DroneBuddy](https://github.com/b3yond-loic/DroneBuddy) – Drone assistant intelligent
-- [Robotic Box](https://github.com/b3yond-loic/RoboticBox) – Application pour contrôler des robots
-- [Messenger](https://github.com/b3yond-loic/Messenger) – Messagerie innovante avec tokens
+- [DroneBuddy](https://github.com/b3yond-loic/Alk-droneBuddy) – Drone assistant intelligent
+- [Robotic Box](https://github.com/b3yond-loic/Alk-robotic-box) – Application pour contrôler des robots
+- [Messenger](https://github.com/b3yond-loic/Alk-messenger) – Messagerie innovante avec tokens
 
 D’autres projets viendront enrichir l’univers B3yond Alkemia au fil du temps, renforçant sa vision de plateforme créative et technologique.
 
