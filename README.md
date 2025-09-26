@@ -3,7 +3,7 @@
 Alk.exe | B3yond Alkemia
 🚀 Présentation
 
-Alk.exe est une micro-entreprise innovante dédiée au développement de projets technologiques créatifs et ambitieux.
+Alk.exe est un atelier innovant dédié au développement de projets technologiques créatifs et ambitieux.
 Son univers, B3yond Alkemia, rassemble plusieurs initiatives indépendantes mais complémentaires, mêlant technologie, design et expérience utilisateur unique.
 
 L’objectif est de créer un écosystème évolutif où chaque projet peut être testé, développé et perfectionné tout en conservant l’identité globale de la marque.
